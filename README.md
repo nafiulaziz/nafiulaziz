@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Tech Experience<br><br>💼 Professional experience with PHP, Java (Spring Boot), and Python<br><br>🔗 Strong interest in backend engineering, REST APIs, and system architecture<br><br>🧠 Enjoy solving algorithmic and logical problems using C++<br><br>🏢 Worked on Odoo-based HRMS solutions at Fiftytwo Digital Ltd.<br><br>🚀 Currently Learning<br><br>🧩 Microservices & distributed systems<br><br>📦 Docker & containerized deployment<br><br>⚙️ Modern backend patterns & clean architecture<br><br>💡 Interests<br><br>Backend system design<br><br>Scalable architectures<br><br>API security & authentication<br><br>Automation & DevOps fundamentals
+🧑‍💻 Tech Experience<br> Professional experience with PHP, Java (Spring Boot), and Python<br> Strong interest in backend engineering, REST APIs, and system architecture<br>Enjoy solving algorithmic and logical problems using C++<br> Worked on Odoo-based HRMS solutions at Fiftytwo Digital Ltd.<br><br>##🚀 Currently Learning<br> Microservices & distributed systems<br> Docker & containerized deployment<br> Modern backend patterns & clean architecture<br><br>##💡 Interests<br><br>Backend system design<br>Scalable architectures<br>API security & authentication<br><br>Automation & DevOps fundamentals
 
 
 ## 🌐 Socials:
